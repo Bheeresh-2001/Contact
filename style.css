@@ -1,0 +1,69 @@
+*{
+    padding: 5px 20px 0 20px;
+
+}
+
+
+.loc{
+    width: 100px;
+    height: 100px;
+    margin-left: 3%;
+}
+
+.mp{
+    color: darkgray;
+}
+
+.phone{
+    width: 110px;
+    height: 110px;
+    margin-left: 30%;
+    /* margin-left: -500px; */
+}
+
+.mail{
+    width: 110px;
+    height: 110px;
+    margin-left: 25%;
+    margin-top: -100px;
+}
+
+.ph3{
+    margin-left: 500px;
+    margin-top: -85px;
+    color: darkgray;
+}
+
+
+.fb{
+    width: 55px;
+    margin-top: -50px;
+}
+
+.ins{
+    width: 63px;
+    margin-left: -60px;
+    margin-top: -15px;
+}
+
+
+.mh3{
+    margin-left: 935px;
+    margin-top: -53px;
+    color: darkgray;
+}
+
+.black{
+    width: 100%;
+    height: 28px;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: -18px;
+}
+
+pre{
+    color: darkgray;
+    text-align: center;
+    margin-top: -3px;
+    font-family: 'Times New Roman', Times, serif;
+}
